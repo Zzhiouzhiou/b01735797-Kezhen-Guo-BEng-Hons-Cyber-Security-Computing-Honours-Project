@@ -1,0 +1,27 @@
+                  precision    recall  f1-score   support
+
+           back.       0.93      0.99      0.96       468
+buffer_overflow.       0.01      0.86      0.02         7
+      ftp_write.       0.00      0.00      0.00         4
+   guess_passwd.       0.32      0.90      0.47        10
+           imap.       0.00      0.00      0.00         1
+        ipsweep.       0.74      0.75      0.75      2515
+           land.       0.13      1.00      0.24         9
+     loadmodule.       0.00      0.50      0.01         2
+        neptune.       1.00      1.00      1.00    214345
+           nmap.       0.23      0.92      0.37       505
+         normal.       1.00      0.97      0.98    194689
+           perl.       0.00      0.00      0.00         1
+            phf.       0.00      0.00      0.00         1
+            pod.       0.93      1.00      0.96        40
+      portsweep.       0.97      0.99      0.98      2043
+        rootkit.       0.00      0.50      0.00         2
+          satan.       0.94      0.99      0.96      3191
+          smurf.       1.00      1.00      1.00    561455
+       teardrop.       1.00      1.00      1.00       191
+    warezclient.       0.11      0.97      0.20       206
+    warezmaster.       0.50      0.50      0.50         2
+
+       micro avg       0.99      0.99      0.99    979687
+       macro avg       0.47      0.71      0.50    979687
+    weighted avg       1.00      0.99      0.99    979687
